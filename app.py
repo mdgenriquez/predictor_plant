@@ -12,7 +12,7 @@ import pubchempy as pcp
 
 # Configuración de la barra lateral
 st.sidebar.image("plant.jpg") #, caption="Autor: Guadalupe Enriquez Asesor: -Dr.Jesus Alvarado"
-st.sidebar.title("Base de Datos de Predictor plant")
+st.sidebar.title("Base_datos_Predictor_plant")
 st.sidebar.markdown("Autor: Guadalupe Enriquez Asesor: -Dr.Jesus Alvarado")
 
 # Cargar el archivo CSV
