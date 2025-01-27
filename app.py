@@ -47,7 +47,7 @@ if data is not None:
     if "SMILES" not in data.columns or "Name" not in data.columns:
         st.error("El archivo CSV debe contener las columnas 'SMILES' y 'Name'.")
     else:
-        st.title("Base de Datos de Sideróforos")
+        st.title("")
         
         # Mostrar un slider para seleccionar una molécula
         molecule_index = st.slider("Selecciona una molécula", 0, len(data) - 1, 0)
