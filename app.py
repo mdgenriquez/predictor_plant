@@ -10,12 +10,33 @@ from pubchempy import get_compounds, Compound
 import sys
 import pubchempy as pcp
 
+# Configuración de la barra lateral
+st.sidebar.image("plant.jpg") #, caption="Autor: Guadalupe Enriquez Asesor: -Dr.Jesus Alvarado"
+st.sidebar.title("Predictor plant")
+st.sidebar.markdown("Autor: Guadalupe Enriquez")
+
+
 def load_data(file_path):
+    
     try:
         return pd.read_csv(file_path)
     except Exception as e:
         st.error(f"Error al cargar el archivo CSV: {e}")
         return None
+
+# Generar archivo SDF
+def generate_sdf(mol):
+    """Genera un archivo SDF 3D de la molécula dada."""
+    mol = Chem.AddHs(mol)
+    AllChem.EmbedMolecule(mol)
+    AllChem.MMFFOptimizeMolecule(mol, maxIters=200)
+    
+    sdf_data = BytesIO()
+    writer = Chem.SDWriter(sdf_data)
+    writer.write(mol)
+    writer.close()
+    sdf_data.seek(0)
+    return sdf_data
 
 
 csv_path = "base_datos_plant_smile.csv"  # Nombre del archivo
@@ -27,6 +48,7 @@ if data is not None:
         st.error("El archivo CSV debe contener las columnas 'SMILES' y 'Name'.")
     else:
         st.title("Predictor plant")
+        
         # Mostrar un slider para seleccionar una molécula
         molecule_index = st.slider("Selecciona una molécula", 0, len(data) - 1, 0)
         selected_row = data.iloc[molecule_index]
