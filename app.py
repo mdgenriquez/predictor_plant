@@ -9,7 +9,6 @@ from io import BytesIO
 from pubchempy import get_compounds, Compound
 import sys
 import pubchempy as pcp
-python app.py
 
 # Configuración de la barra lateral
 st.sidebar.image("plant.jpg") #, caption="Autor: Guadalupe Enriquez Asesor: -Dr.Jesus Alvarado"
