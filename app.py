@@ -39,7 +39,7 @@ def generate_sdf(mol):
     return sdf_data
 
 # Leer el archivo CSV cargado por el usuario
-csv_path = "sideroforo_web.csv"  # Nombre del archivo
+csv_path = "base_datos_plant_smile.csv"  # Nombre del archivo
 data = load_data(csv_path)
 
 if data is not None:
