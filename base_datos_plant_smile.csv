@@ -1,193 +1,327 @@
-﻿ID;plant;Name;CID;IUPAC;Smile
-1;Baccharis trimera;Quercetin;5280343;2- (3,4-dihidroxifenil) -3,5,7-trihidroxicromen-4-ona;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
-2;Baccharis trimera;Luteolin;5280445;2- (3,4-dihidroxifenil) -5,7-dihidroxicromen-4-ona;O=C1C=C(C2=CC=C(O)C(O)=C2)OC3=CC(O)=CC(O)=C13
-3;Baccharis trimera;Nepetin;5317284;2- (3,4-dihidroxifenil) -5,7-dihidroxi-6-metoxicromen-4-ona;O=C1C=C(C2=CC=C(O)C(O)=C2)OC3=CC(O)=C(OC)C(O)=C13
-4;Baccharis trimera;Apigenin;5280443;5,7-dihidroxi-2- (4-hidroxifenil) cromen-4-ona;OC1=C2C(OC(C3=CC=C(O)C=C3)=CC2=O)=CC(O)=C1
-5;Baccharis trimera;Hispidulin;5281628;5,7-dihidroxi-2- (4-hidroxifenil) -6-metoxicromen-4-ona;O=C1C=C(C2=CC=C(O)C=C2)OC3=CC(O)=C(OC)C(O)=C13
-6;Bidens andicola;5 Quercetina 3-O-glicósido;5282159;3 - [[(2 R , 3 S , 4 S , 5 R , 6 S ) -6- [2- (3,4-dihidroxifenil) -5,7-dihidroxi-4-oxocromen-3-il] oxi- Ácido 3,4,5-trihidroxioxan-2-il] metoxi] -3-oxopropanoico;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)COC(=O)CC(=O)O)O)O)O)O)O
-7;Bidens andicola;Ácido clorogenico;1794427;Ácido (1 S , 3 R , 4 R , 5 R ) -3 - [( E ) -3- (3,4-dihidroxifenil) prop-2-enoil] oxi-1,4,5-trihidroxiciclohexano-1-carboxílico;C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
-8;Bidens andicola;Isoquercitrin ;5280804;2- (3,4-dihidroxifenil) -5,7-dihidroxi-3 - [(2 S , 3 R , 4 S , 5 S , 6 R ) -3,4,5-trihidroxi-6- (hidroximetil) oxano -2-il] oxicromen-4-ona;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O
-9;Bidens andicola;Isoquercetin;5280804;2- (3,4-dihidroxifenil) -5,7-dihidroxi-3 - [(2 S , 3 R , 4 S , 5 S , 6 R ) -3,4,5-trihidroxi-6- (hidroximetil) oxano -2-il] oxicromen-4-ona;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O
-10;Bidens andicola;3- O- ramnosida de quercetina;5280459;3 - [[(2 R , 3 S , 4 S , 5 R , 6 S ) -6- [2- (3,4-dihidroxifenil) -5,7-dihidroxi-4-oxocromen-3-il] oxi- Ácido 3,4,5-trihidroxioxan-2-il] metoxi] -3-oxopropanoico;CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
-11;Bidens pilosa;Beta  bourbonene;62566;(1 S , 2 R , 6 S , 7 R , 8 S ) -1-metil-5-metiliden-8-propan-2-iltriciclo [5.3.0.0 2,6 ] decano;CC(C)C1CCC2(C1C3C2CCC3=C)C
-12;Bidens pilosa;beta-Caryophyllene;5281515;(1 R , 4 E , 9 S ) -4,11,11-trimetil-8-metilidenbiciclo [7.2.0] undec-4-eno;CC1=CCCC(=C)C2CC(C2CC1)(C)C
-13;Bidens pilosa;beta-Copaene;57339298;(1S,6S,7S,8S)-1-methyl-3-methylidene-8-propan-2-yltricyclo[4.4.0.02,7]decane;CC(C)C1CCC2(C3C1C2C(=C)CC3)C
-14;Bidens pilosa;α-Humuleno;24798693;(1 Z , 4 Z , 8 E ) -2,6,6,9-tetrametilcicloundeca-1,4,8-trieno;CC1=CCC(C=CCC(=CCC1)C)(C)C
-15;Bidens pilosa;Germacreno D;6436582;(1 E , 6 E ) -1-metil-5-metiliden-8-propan-2-ilciclodeca-1,6-dieno;CC1=CCCC(=C)C=CC(CC1)C(C)C
-16;Bidens pilosa;Espatulenol;6432640;(7 S ) -1,1,7-trimetil-4-metiliden-1 a , 2,3,4 a , 5,6,7 a , 7 b -octahidrociclopropa [h] azulen-7-ol;CC1(C2C1C3C(CCC3(C)O)C(=C)CC2)C
-17;Brugmancia candida;Benzaldehyde;240;benzaldehído;C1=CC=C(C=C1)C=O
-18;Brugmancia candida;Methyl benzoate;7150;benzoato de metilo;COC(=O)C1=CC=CC=C1
-19;Brugmancia candida;Phenylethyl alcohol;6054;2-feniletanol;C1=CC=C(C=C1)CCO
-20;Brugmancia candida;Benzyl acetate;8785;acetato de bencilo;CC(=O)OCC1=CC=CC=C1
-21;Brugmancia candida;Methyl salicylate;4133;2-hidroxibenzoato de metilo;COC(=O)C1=CC=CC=C1O
-22;Brugmancia candida;Benzyl benzoate;2345;benzoato de bencilo;C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2
-23;Brugmancia candida;Benzyl salicylate;8363;2-hidroxibenzoato de bencilo;C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O
-24;Brugmancia candida;alpha Thujene;6451618;(1 R ) -2-metil-5-propan-2-ilbiciclo [3.1.0] hex-2-eno;CC1=CCC2(C1C2)C(C)C 
-25;Brugmancia candida;alpha Pinene;6654;2,6,6-trimetilbiciclo [3.1.1] hept-2-eno;CC1=CCC2CC1C2(C)C
-26;Brugmancia candida;Beta pinene;14896;6,6-dimetil-2-metilidenbiciclo [3.1.1] heptano;CC1(C2CCC(=C)C1C2)C
-27;Brugmancia candida;Limonene;22311;1-metil-4-prop-1-en-2-ilciclohexeno;CC1=CCC(CC1)C(=C)C
-28;Brugmancia candida;1,8-Cineole;2758;1,3,3-trimetil-2-oxabiciclo [2.2.2] octano;CC1(C2CCC(O1)(CC2)C)C
-29;Brugmancia candida;trans- BETA Ocimene;5281553;(3 E ) -3,7-dimetilocta-1,3,6-trieno;CC(=CCC=C(C)C=C)C
-30;Brugmancia candida;trans-Sabinene hydrate ;12315151;(2S,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol;CC(C)C12CCC(C1C2)(C)O
-31;Brugmancia candida;Terpinolene;11463;1-methyl-4-propan-2-ylidenecyclohexene;CC1=CCC(=C(C)C)CC1
-32;Brugmancia candida;alpha Terpineol;17100;2- (4-metilciclohex-3-en-1-il) propan-2-ol;CC1=CCC(CC1)C(C)(C)O
-33;Brugmancia candida;Beta Elemene;6918391;(1 S , 2 S , 4 R ) -1-etenil-1-metil-2,4-bis (prop-1-en-2-il) ciclohexano;CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C
-34;Brugmancia candida;beta Cedrene;11106485;(1 S , 2 R , 5 S , 7 S ) -2,6,6-trimetil-8-metilidentriciclo [5.3.1.0 1,5 ];CC1CCC2C13CCC(=C)C(C3)C2(C)C 
-35;Brugmancia candida;[Z]trans-alpha-Bergamotene/trans-alpha-Bergamotene;6429302;(1 S , 5 S , 6 R ) -2,6-dimetil-6- (4-metilpent-3-enil) biciclo [3.1.1] hept-2-eno;CC1=CCC2CC1C2(C)CCC=C(C)C
-36;Brugmancia candida;Alpha Farnesene;5281516;(3 E , 6 E ) -3,7,11-trimetildodeca-1,3,6,10-tetraeno;CC(=CCCC(=CCC=C(C)C=C)C)C
-37;Brugmancia candida;trans-Nerolidol;5284507;(6 E ) -3,7,11-trimetildodeca-1,6,10-trien-3-ol;CC(=CCCC(=CCCC(C)(C=C)O)C)C
-38;Brugmancia candida;Nerolidol;5284507;(6 E ) -3,7,11-trimetildodeca-1,6,10-trien-3-ol;CC(=CCCC(=CCCC(C)(C=C)O)C)C
-39;Brugmancia candida;cis, trans-Farnesol;1549109;(2 E , 6 Z ) -3,7,11-trimetildodeca-2,6,10-trien-1-ol;CC(=CCCC(=CCCC(=CCO)C)C)C
-40;Brugmancia candida;trans, trans-Farnesol;5365996;trimetil - [(2 E , 6 E ) -3,7,11-trimetildodeca-2,6,10-trienoxi] silano;CC(=CCCC(=CCCC(=CCO)C)C)C
-41;Brugmancia candida;trans, cis-Farnesol;1549109;(2 E , 6 Z ) -3,7,11-trimetildodeca-2,6,10-trien-1-ol;CC(=CCCC(=CCCC(=CCO)C)C)C
-42;Brugmancia candida;Indole;798;1 H -indol;C1=CC=C2C(=C1)C=CN2
-43;Capsella bursa ;Quercetin 3-O-glucoside;5280804;2- (3,4-dihidroxifenil) -5,7-dihidroxi-3 - [(2 S , 3 R , 4 S , 5 S , 6 R ) -3,4,5-trihidroxi-6- (hidroximetil) oxano -2-il] oxicromen-4-ona;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O
-44;Capsella bursa ;Kaempferol-3-O-rutinoside;5318767;5,7-dihidroxi-2- (4-hidroxifenil) -3 - [(2 S , 3 R , 4 S , 5 S , 6 R ) -3,4,5-trihidroxi-6 - [[(2 R , 3 R , 4 R , 5 R , 6 S ) -3,4,5-trihidroxi-6-metiloxan-2-il] oximetil] oxan-2-il] oxicromen-4-ona;CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O)O)O)O)O)O
-45;Capsella bursa ;Kaempferol;5280863;3,5,7-trihidroxi-2- (4-hidroxifenil) cromen-4-ona;C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
-46;Capsella bursa ;Oxalic;971;ácido oxálico;C(=O)(C(=O)O)O
-47;Capsella bursa ;Citric;16213286;1,1,3,3-tetradeuterio-2-hydroxypropane-1,2,3-tricarboxylic acid;C(C(=O)O)C(CC(=O)O)(C(=O)O)O
-48;Capsella bursa ;Malic;525;2-hydroxybutanedioic acid;C(C(C(=O)O)O)C(=O)O
-49;Capsella bursa ;Shikimic;8742;(3R,4S,5R)-3,4,5-trihydroxycyclohexene-1-carboxylic acid;C1C(C(C(C=C1C(=O)O)O)O)O
-50;Capsella bursa ;Fumaric;444972;(E)-but-2-enedioic acid;C(=CC(=O)O)C(=O)O
-51;Capsella bursa ;Lauric acid;3893;dodecanoic acid;C(=CC(=O)O)C(=O)O
-52;Capsella bursa ;tetradecanoic acid;11005;tetradecanoic acid;CCCCCCCCCCCCCC(=O)O
-53;Capsella bursa ;pentadecanoic acid;13849;pentadecanoic acid;CCCCCCCCCCCCCCC(=O)O
-54;Capsella bursa ;(Z)-Hexadec-9-enoic acid;445638;(Z)-hexadec-9-enoic acid;CCCCCCC=CCCCCCCCC(=O)O
-55;Capsella bursa ;(Z)-7-Hexadecenoic acid;5318393;(Z)-hexadec-7-enoic acid;CCCCCCCCC=CCCCCCC(=O)O
-56;Capsella bursa ;Hexadecanoic acid;985;hexadecanoic acid;CCCCCCCCCCCCCCCC(=O)O
-57;Capsella bursa ;Cis 9,10-Methylenehexadecanoic acid;11043779;8-[(1S,2R)-2-hexylcyclopropyl]octanoic acid;CCCCCCC1CC1CCCCCCCC(=O)O
-58;Capsella bursa ;Heptadecanoic acid;10465;heptadecanoic acid;CCCCCCCCCCCCCCCCC(=O)O
-59;Capsella bursa ;9(Z),12(E)-Octadecadienoic acid;3931;octadeca-9,12-dienoic acid;CCCCCC=CCC=CCCCCCCCC(=O)O
-60;Capsella bursa ;(Z)-Octadec-9-enoic acid;445639;(Z)-octadec-9-enoic acid;CCCCCCCCC=CCCCCCCCC(=O)O
-61;Capsella bursa ;6-Octadecenoic acid, (Z);5282754;(E)-octadec-6-enoic acid;CCCCCCCCCCC/C=C\CCCCC(=O)O
-62;Capsella bursa ;Octadecanoic acid;5281;octadecanoic acid;CCCCCCCCCCCCCCCCCC(=O)O
-63;Capsella bursa ;Arachidic acid;10467;icosanoic acid;CCCCCCCCCCCCCCCCCCCC(=O)O
-64;Aloysia triphylla;1-octene;8125;oct-1-ene;CCCCCCC=C
-65;Aloysia triphylla;2-hexena;19966;hex-2-ene;CCCC=CC
-66;Aloysia triphylla;β-citronellene;17090;3,7-dimethylocta-1,6-diene;CC(CCC=C(C)C)C=C
-67;Aloysia triphylla;sabinene;18818;4-methylidene-1-propan-2-ylbicyclo[3.1.0]hexane;CC(C12CCC(C1C2)=C)C
-68;Aloysia triphylla;1-octen-3-o;18827;oct-1-en-3-ol;CCCCCC(C=C)O
-69;Aloysia triphylla;6-methyl-5-hepten-2-one;9862;6-methylhept-5-en-2-one;CC(=CCCC(=O)C)C
-70;Aloysia triphylla;3-octanol;11527;octan-3-ol;CCCCCC(CC)O
-71;Aloysia triphylla;α-terpinene;7462;1-methyl-4-propan-2-ylcyclohexa-1,3-diene;CC1=CC=C(CC1)C(C)C
-72;Aloysia triphylla;p-cymene;7463;;CC1=CC=C(C=C1)C(C)C
-73;Aloysia triphylla;(Z)-β-ocimene;5320250;(3Z)-3,7-dimethylocta-1,3,6-triene;CC(=CCC=C(C)C=C)C
-74;Aloysia triphylla;γ-terpinene;7461;1-methyl-4-propan-2-ylcyclohexa-1,4-diene;CC1=CCC(=CC1)C(C)C
-75;Aloysia triphylla;cis-sabinene hydrate;101629835;(1S,4R)-4-methyl-1-propan-2-ylbicyclo[3.1.0]hexane;CC1CCC2(C1C2)C(C)C
-76;Aloysia triphylla;eucarvone;136330;2,6,6-trimethylcyclohepta-2,4-dien-1-one;CC1=CC=CC(CC1=O)(C)C
-77;Aloysia triphylla;Linalool;6549;3,7-dimethylocta-1,6-dien-3-ol;CC(=CCCC(C)(C=C)O)C
-78;Aloysia triphylla;α-thujone;261491;(1S,4R,5R)-4-methyl-1-propan-2-ylbicyclo[3.1.0]hexan-3-one;CC1C2CC2(CC1=O)C(C)C
-79;Aloysia triphylla;cis-limonene oxide;6857487;(1R,4R,6S)-1-methyl-4-prop-1-en-2-yl-7-oxabicyclo[4.1.0]heptane;CC(=C)C1CCC2(C(C1)O2)C
-80;Aloysia triphylla;trans-limonene oxide;449290;(1S,4R,6R)-1-methyl-4-prop-1-en-2-yl-7-oxabicyclo[4.1.0]heptane;CC(=C)C1CCC2(C(C1)O2)C
-81;Aloysia triphylla;citronellal;7794;3,7-dimethyloct-6-enal;CC(CCC=C(C)C)CC=O
-82;Aloysia triphylla;terpinen-4-ol;11230;4-methyl-1-propan-2-ylcyclohex-3-en-1-ol;CC1=CCC(C(C)C)(O)CC1
-83;Aloysia triphylla;α-terpineol;442501;2-[(1R)-4-methylcyclohex-3-en-1-yl]propan-2-ol;OC(C)(C)C1CC=C(C)CC1
-84;Aloysia triphylla;trans-carveol;94221;(1S,5R)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-ol;CC1=CCC(CC1O)C(=C)C
-85;Aloysia triphylla;Neral;643779;(2Z)-3,7-dimethylocta-2,6-dienal;CC(=CCCC(=CC=O)C)C
-86;Aloysia triphylla;methyl citronellate;61290;methyl 3,7-dimethyloct-6-enoate;CC(CCC=C(C)C)CC(=O)OC
-87;Aloysia triphylla;geranial;638011;(2E)-3,7-dimethylocta-2,6-dienal;CC(=CCCC(=CC=O)C)C
-88;Aloysia triphylla;delta-elemene;12309449;(3R,4R)-4-ethenyl-4-methyl-1-propan-2-yl-3-prop-1-en-2-ylcyclohexene;CC(C)C1=CC(C(CC1)(C)C=C)C(=C)C
-89;Aloysia triphylla;2-phenylethyl propionate;31225;2-phenylethyl propanoate;CCC(=O)OCCC1=CC=CC=C1
-90;Aloysia triphylla;Eugenol;3314;2-methoxy-4-prop-2-enylphenol;COC1=C(C=CC(=C1)CC=C)O
-91;Aloysia triphylla;Neryl acetate;1549025;[(2Z)-3,7-dimethylocta-2,6-dienyl] acetate;CC(=CCCC(=CCOC(=O)C)C)C
-92;Aloysia triphylla;α-copaene;19725;1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]dec-3-ene;CC1=CCC2C3C1C2(CCC3C(C)C)C
-93;Aloysia triphylla;methyl eugenol;7127;1,2-dimethoxy-4-prop-2-enylbenzene;COC1=C(C=C(C=C1)CC=C)OC
-94;Aloysia triphylla;α-cedrene;442348;(1S,2R,5S)-2,6,6,8-tetramethyltricyclo[5.3.1.01,5]undec-8-ene;CC1CCC2C13CC=C(C(C3)C2(C)C)C
-95;Aloysia triphylla;β-gurjunene;6432176;(7S,7aS)-1,1,7,7a-tetramethyl-2,3,5,6,7,7b-hexahydro-1aH-cyclopropa[a]naphthalene;CC1CCC2C(C2(C)C)C3C1CCC3=C
-96;Aloysia triphylla;aromadendrene;91354;1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene;CC1CCC2C1C3C(C3(C)C)CCC2=C
-97;Aloysia triphylla;α-humulene;5281520;(1E,4E,8E)-2,6,6,9-tetramethylcycloundeca-1,4,8-triene;CC1=CCC(C=CCC(=CCC1)C)(C)C
-98;Aloysia triphylla;(E)-β-farnesene;10407;"7,11-dimethyl-3-methylidenedodeca-1,6,10-triene
-
-";CC(=CCCC(=CCCC(=C)C=C)C)C
-99;Aloysia triphylla;allo-aromadendrene;42608158;(4aS,7R,7aR)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene;CC1CCC2C1C3C(C3(C)C)CCC2=C
-100;Aloysia triphylla;geranyl propionate;5355853;[(2E)-3,7-dimethylocta-2,6-dienyl] propanoate;CCC(=O)OCC=C(C)CCC=C(C)C
-101;Aloysia triphylla;Germacrene D;5317570;(1E,6E,8S)-1-methyl-5-methylidene-8-propan-2-ylcyclodeca-1,6-diene;CC1=CCCC(=C)C=CC(CC1)C(C)C
-102;Aloysia triphylla;Ar-Curcumene;6429102;1-methyl-4-[(3Z)-6-methylhepta-3,5-dien-2-yl]benzene;CC1=CC=C(C=C1)C(C)CCC=C(C)C
-103;Aloysia triphylla;zingiberene;92776;(5R)-2-methyl-5-[(2S)-6-methylhept-5-en-2-yl]cyclohexa-1,3-diene;CC1=CCC(C=C1)C(C)CCC=C(C)C
-104;Aloysia triphylla;β-bisabolene;10104370;(4S)-1-methyl-4-(6-methylhepta-1,5-dien-2-yl)cyclohexene;CC1=CCC(CC1)C(=C)CCC=C(C)C
-105;Aloysia triphylla;γ-cadinene;6432404;(1S,4aR,8aR)-7-methyl-4-methylidene-1-propan-2-yl-2,3,4a,5,6,8a-hexahydro-1H-naphthalene;CC1=CC2C(CC1)C(=C)CCC2C(C)C
-106;Aloysia triphylla;δ-cadinene;441005;(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene;CC1=CC2C(CC1)C(=C)CCC2C(C)C
-107;Aloysia triphylla;trans-calamenene;6429022;(1S,4R)-1,6-dimethyl-4-propan-2-yl-1,2,3,4-tetrahydronaphthalene;CC1CCC(C2=C1C=CC(=C2)C)C(C)C
-108;Aloysia triphylla;(E)-nerolidol ;5284507;(6E)-3,7,11-trimethyldodeca-1,6,10-trien-3-o;CC(=CCCC(=CCCC(C)(C=C)O)C)C
-109;Aloysia triphylla;germacrene D-4-o;5352847;(2E,7E)-1,7-dimethyl-4-propan-2-ylcyclodeca-2,7-dien-1-ol;CC1=CCCC(C=CC(CC1)C(C)C)(C)O
-110;Aloysia triphylla;spathulenol;13854255;(1aS,4aS,7R,7aS,7bS)-1,1,7-trimethyl-4-methylidene-1a,2,3,4a,5,6,7a,7b-octahydrocyclopropa[h]azulen-7-ol;CC1(C2C1C3C(CCC3(C)O)C(=C)CC2)C
-111;Aloysia triphylla;caryophyllene oxide;1742210;(1R,4R,6R,10S)-4,12,12-trimethyl-9-methylidene-5-oxatricyclo[8.2.0.04,6]dodecane;CC1(CC2C1CCC3(C(O3)CCC2=C)C)C
-112;Aloysia triphylla;α-cadinol;10398656;(1R,4S,4aR,8aR)-1,6-dimethyl-4-propan-2-yl-3,4,4a,7,8,8a-hexahydro-2H-naphthalen-1-ol;CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
-113;Baccharis latifolia;Myrcene;31253;7-methyl-3-methylideneocta-1,6-diene;CC(=CCCC(=C)C=C)C
-114;Baccharis latifolia;b-Phellandrene;11142;3-methylidene-6-propan-2-ylcyclohexene;CC(C)C1CCC(=C)C=C1
-115;Baccharis latifolia;(E)-β-Ocymene;5281553;(3E)-3,7-dimethylocta-1,3,6-triene;CC(=CCC=C(C)C=C)C
-116;Baccharis latifolia;gamma-Terpinene;7461;1-methyl-4-propan-2-ylcyclohexa-1,4-diene;CC1=CCC(=CC1)C(C)C
-117;Baccharis latifolia;β-Elemene;6918391;(1S,2S,4R)-1-ethenyl-1-methyl-2,4-bis(prop-1-en-2-yl)cyclohexane;CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C
-118;Baccharis latifolia;(E)-beta-Farnesene;5281517;(6E)-7,11-dimethyl-3-methylidenedodeca-1,6,10-triene;CC(=CCCC(=CCCC(=C)C=C)C)C
-119;Baccharis latifolia;gamma-Curcumene;12304273;1-methyl-4-[(2R)-6-methylhept-5-en-2-yl]cyclohexa-1,3-diene;CC1=CC=C(CC1)C(C)CCC=C(C)C
-120;Baccharis latifolia;α-Curcumene;92139;1-methyl-4-(6-methylhept-5-en-2-yl)benzene;CC1=CC=C(C=C1)C(C)CCC=C(C)C
-121;Baccharis latifolia;Bicyclogermacrene;13894537;(1S,2E,6E,10R)-3,7,11,11-tetramethylbicyclo[8.1.0]undeca-2,6-diene;CC1=CCCC(=CC2C(C2(C)C)CC1)C
-122;Baccharis latifolia;β-Bisabolene;10104370;(4S)-1-methyl-4-(6-methylhepta-1,5-dien-2-yl)cyclohexene;CC1=CCC(CC1)C(=C)CCC=C(C)C
-123;Baccharis latifolia;d-Cadinene;441005;(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene;CC1=CC2C(CCC(=C2CC1)C)C(C)C
-124;Baccharis latifolia;Cubenol;11770062;"2-[(4,5-dimethyl-1,2,4-triazol-3-yl)methyl]-1-[(1-ethylpyrrolidin-2-yl)methyl]-3-(3-methylsulfanylpropyl)guanidine;hydroiodide";CC1CCC(C2C1(CCC(=C2)C)O)C(C)C
-125;Baccharis latifolia;tau-Canidol;12302222;(1R,4S,4aS,8aS)-1,6-dimethyl-4-propan-2-yl-3,4,4a,7,8,8a-hexahydro-2H-naphthalen-1-ol;CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
-126;Baccharis latifolia;α-Bisabolol;1549992;(2R)-6-methyl-2-[(1R)-4-methylcyclohex-3-en-1-yl]hept-5-en-2-ol;CC1=CCC(CC1)C(C)(CCC=C(C)C)O
-127;Baccharis latifolia;Chromolaenin;11745938;(5R)-1,5,8-trimethyl-4,5-dihydrobenzo[e][1]benzofuran;CC1CC2=C(C(=CO2)C)C3=C1C=CC(=C3)C
-128;Minthostachys mollis;beta-Ocimene;5281553;(3E)-3,7-dimethylocta-1,3,6-triene;CC(=CCC=C(C)C=C)C
-129;Minthostachys mollis;isomenthone;6986;5-methyl-2-propan-2-ylcyclohexan-1-one;CC1CCC(C(=O)C1)C(C)C
-130;Minthostachys mollis;isomenthyl acetate;6432225;[(1S,2R,5R)-5-methyl-2-propan-2-ylcyclohexyl] acetate;CC1CCC(C(C1)OC(=O)C)C(C)C
-131;Minthostachys mollis;neomenthol;439263;(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol;CC1CCC(C(C1)O)C(C)C
-132;Minthostachys mollis;menthol;1254;5-methyl-2-propan-2-ylcyclohexan-1-ol;CC1CCC(C(C1)O)C(C)C
-133;Minthostachys mollis;pulegone;442495;(5R)-5-methyl-2-propan-2-ylidenecyclohexan-1-one;CC1CCC(=C(C)C)C(=O)C1
-134;Minthostachys mollis;piperitone;6987;3-methyl-6-propan-2-ylcyclohex-2-en-1-one;CC1=CC(=O)C(CC1)C(C)C
-135;Minthostachys mollis;(Z)-beta-ocimen;5281553;(3E)-3,7-dimethylocta-1,3,6-triene;CC(=CCCC(=C)C=C)C
-136;Minthostachys mollis;menthone;26447;(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one;CC1CCC(C(=O)C1)C(C)C
-137;Minthostachys mollis;neomenthyl acetate;75699;[(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexyl] acetate;CC1CCC(C(C1)OC(=O)C)C(C)C
-138;Minthostachys mollis;menthyl acetate;27867;(5-methyl-2-propan-2-ylcyclohexyl) acetate;CC1CCC(C(C1)OC(=O)C)C(C)C
-139;Minthostachys mollis;isomenthol;6432468;(1R,2S,5S)-5-methyl-2-propan-2-ylcyclohexan-1-ol;CC1CCC(C(C1)O)C(C)C
-140;Buddleja globosa;β-mirceno;31253;7-methyl-3-methylideneocta-1,6-diene;CC(=CCCC(=C)C=C)C
-141;Buddleja globosa;β-pineno;10290825;(1R,5R)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane;CC1(C2CCC(=C)C1C2)C
-142;Buddleja globosa;8-Isopropenil-1,5-dimetil-ciclodeca-1,5-dieno;5365775;(1E,5Z)-1,5-dimethyl-8-prop-1-en-2-ylcyclodeca-1,5-diene;CC1=CCCC(=CCC(CC1)C(=C)C)C
-143;Buddleja globosa;3-careno;26049;3,7,7-trimethylbicyclo[4.1.0]hept-3-ene;CC1=CCC2C(C1)C2(C)C
-144;Buddleja globosa;β-trans-ocimeno;5281553;(3E)-3,7-dimethylocta-1,3,6-triene;CC(=CCC=C(C)C=C)C
-145;Buddleja globosa;D-limoneno;440917;(4R)-1-methyl-4-prop-1-en-2-ylcyclohexene;CC1=CCC(CC1)C(=C)C
-146;Buddleja globosa;β-ocimeno;5281553;(3E)-3,7-dimethylocta-1,3,6-triene;CC(=CCC=C(C)C=C)C
-147;Buddleja globosa;4.7.7-trimetilbiciclo[2.2.1]heptan-3-ona (alcanfor);2750021;3-acetyl-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one;CC1(C2CCC1(C(=O)C2)C)C
-148;Buddleja globosa;Isoborneol;64685;1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol;CC1(C2CCC1(C(C2)O)C)C
-149;Buddleja globosa;p-cimen-8-ol;14529;2-(4-methylphenyl)propan-2-ol;CC1=CC=C(C=C1)C(C)(C)O
-150;Buddleja globosa;Elixeno;94254;1-ethenyl-1-methyl-4-propan-2-ylidene-2-prop-1-en-2-ylcyclohexane;CC(=C1CCC(C(C1)C(=C)C)(C)C=C)C
-151;Buddleja globosa;α-cubebeno;86609;4,10-dimethyl-7-propan-2-yltricyclo[4.4.0.01,5]dec-3-ene;CC1CCC(C2C13C2C(=CC3)C)C(C)C
-152;Buddleja globosa;α -copaeno;19725;1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]dec-3-ene;CC1=CCC2C3C1C2(CCC3C(C)C)C
-153;Buddleja globosa;Metilougenol;7127;1,2-dimethoxy-4-prop-2-enylbenzene;COC1=C(C=C(C=C1)CC=C)OC
-154;Buddleja globosa;Desconocido (C15H24);656496;(4S,4aR,6S)-4,4a-dimethyl-6-prop-1-en-2-yl-2,3,4,5,6,7-hexahydro-1H-naphthalene;CC1CCCC2=CCC(CC12C)C(=C)C
-155;Buddleja globosa;β-cariofileno;5281515;(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene;CC1=CCCC(=C)C2CC(C2CC1)(C)C
-156;Buddleja globosa;β-cubebeno;93081;(1R,5S,6R,7S,10R)-10-methyl-4-methylidene-7-propan-2-yltricyclo[4.4.0.01,5]decane;CC1CCC(C2C13C2C(=C)CC3)C(C)C
-157;Buddleja globosa;Aromadendreno;91354;1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene;CC1CCC2C1C3C(C3(C)C)CCC2=C
-158;Buddleja globosa;α-cariofileno;6508206;(1Z,4Z,8Z)-2,6,6,9-tetramethylcycloundeca-1,4,8-triene;CC1=CCC(C=CCC(=CCC1)C)(C)C
-159;Buddleja globosa;L-alloaromadendreno;11095734;(1aR,4aR,7R,7aR,7bS)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene;CC1CCC2C1C3C(C3(C)C)CCC2=C
-160;Buddleja globosa;Pentadecano ;12391;pentadecane;CCCCCCCCCCCCCCC
-161;Buddleja globosa;α-muroleno;12306047;(1S,4aS,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,4a,5,6,8a-hexahydronaphthalene;CC1=CC2C(CC1)C(=CCC2C(C)C)C
-162;Buddleja globosa;Biciclogermacreno;13894537;(1S,2E,6E,10R)-3,7,11,11-tetramethylbicyclo[8.1.0]undeca-2,6-diene;CC1=CCCC(=CC2C(C2(C)C)CC1)C
-163;Buddleja globosa;Desconocido (C15H26O);160799;(1S,4S,4aR,8aR)-1,6-dimethyl-4-propan-2-yl-3,4,4a,7,8,8a-hexahydro-2H-naphthalen-1-ol;CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
-164;Buddleja globosa;Elemicina;10248;1,2,3-trimethoxy-5-prop-2-enylbenzene;COC1=CC(=CC(=C1OC)OC)CC=C
-165;Buddleja globosa;1,2,4-trimetoxi-5-(1-propenil)-benceno (asarona);17903;1,2,4-trimethoxy-5-prop-1-enylbenzene;CC=CC1=CC(=C(C=C1OC)OC)OC
-166;Buddleja globosa;Germacreno D-4-ol;5352847;(2E,7E)-1,7-dimethyl-4-propan-2-ylcyclodeca-2,7-dien-1-ol;CC1=CCCC(C=CC(CC1)C(C)C)(C)O
-167;Buddleja globosa;Oxido de cariofilleno;1742210;(1R,4R,6R,10S)-4,12,12-trimethyl-9-methylidene-5-oxatricyclo[8.2.0.04,6]dodecane;CC1(CC2C1CCC3(C(O3)CCC2=C)C)C
-168;Buddleja globosa;Apiol;10659;4,7-dimethoxy-5-prop-2-enyl-1,3-benzodioxole;COC1=C2C(=C(C(=C1)CC=C)OC)OCO2
-169;Leucheria daucifolia;malvidina;159287;2-(4-hydroxy-3,5-dimethoxyphenyl)chromenylium-3,5,7-triol;COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O
-170;Leucheria daucifolia;Eucaliptina;76573;5-hydroxy-7-methoxy-2-(4-methoxyphenyl)-6,8-dimethylchromen-4-one;CC1=C(C2=C(C(=C1OC)C)OC(=CC2=O)C3=CC=C(C=C3)OC)O
-171;Leucheria daucifolia;8-dimetilflavona;14753671;7-hydroxy-5-methoxy-6,8-dimethyl-2-phenylchromen-4-one;CC1=C(C(=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)OC)C)O
-172;Leucheria daucifolia;8-desmetileucaliptina;15715157;5-hydroxy-7-methoxy-2-(4-methoxyphenyl)-6-methylchromen-4-one;CC1=C(C=C2C(=C1O)C(=O)C=C(O2)C3=CC=C(C=C3)OC)OC
-173;E. sideroxylon;Sidereoxilina;3083788;5-hydroxy-2-(4-hydroxyphenyl)-7-methoxy-6,8-dimethylchromen-4-one;CC1=C(C2=C(C(=C1OC)C)OC(=CC2=O)C3=CC=C(C=C3)O)O
-174;E. sideroxylon;8-desmetilsideroxilina;44258359;5-hydroxy-2-(4-hydroxyphenyl)-7-methoxy-6-methylchromen-4-one;CC1=C(C=C2C(=C1O)C(=O)C=C(O2)C3=CC=C(C=C3)O)OC
-175;E. camaldulensis;apigenin7-glucurónido;5319484;(2S,3S,4S,5R,6S)-3,4,5-trihydroxy-6-[5-hydroxy-2-(4-hydroxyphenyl)-4-oxochromen-7-yl]oxyoxane-2-carboxylic acid ;C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O
-176;E. camaldulensis;luteolín-7-glucósido;44258141;[2-hydroxy-4-[5-hydroxy-4-oxo-7-[(2S,4S,5S)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-2-yl]phenyl] (Z)-2-methylbut-2-enoate;CC=C(C)C(=O)OC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)CO)O)O)O)O)O
-177;E. sieberi;alpinetina;154279;(2S)-7-hydroxy-5-methoxy-2-phenyl-2,3-dihydrochromen-4-one;COC1=CC(=CC2=C1C(=O)CC(O2)C3=CC=CC=C3)O
-178;E. sieberi;pinocembrina;68071;(2S)-5,7-dihydroxy-2-phenyl-2,3-dihydrochromen-4-one;C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3
-179;E. sieberi;3-rutinósidos quercetina;5280805;2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxychromen-4-one;CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O
-180;E. sieberi;3-glucurónidos de kaempferol;5282102;5,7-dihydroxy-2-(4-hydroxyphenyl)-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one;C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O
-181;E. sieberi;miricetina;5281672;3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)chromen-4-one;C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
-182;E. tlocktoniae;dihidrokaempferol;122850;(2R,3R)-3,5,7-trihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one;C1=CC(=CC=C1C2C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
-183;E. calophylla;KINO;68213;(3,4-dihydroxyphenyl)-(2,4,6-trihydroxyphenyl)methanone;C1=CC(=C(C=C1C(=O)C2=C(C=C(C=C2O)O)O)O)O
-184;E. calophylla;Sakuranetina;73571;(2S)-5-hydroxy-2-(4-hydroxyphenyl)-7-methoxy-2,3-dihydrochromen-4-one;COC1=CC(=C2C(=O)CC(OC2=C1)C3=CC=C(C=C3)O)O
-185;E. maculata;Naringenina;932;5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one;C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O
-186;E. maculata;Aromadendrin;122850;(2R,3R)-3,5,7-trihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one;C1=CC(=CC=C1C2C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
-187;Cinchona officinalis;Quinina ;3034034;(R)-[(2S,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol;COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O
-188;Cinchona officinalis;Estreptogrinina;5298;5-amino-6-(7-amino-6-methoxy-5,8-dioxoquinolin-2-yl)-4-(2-hydroxy-3,4-dimethoxyphenyl)-3-methylpyridine-2-carboxylic acid;CC1=C(C(=C(N=C1C(=O)O)C2=NC3=C(C=C2)C(=O)C(=C(C3=O)N)OC)N)C4=C(C(=C(C=C4)OC)OC)O
-189;Cinchona officinalis;Chalcone;5356057;(E)-1-[4-(dimethylamino)phenyl]-3-phenylprop-2-en-1-one;CN(C)C1=CC=C(C=C1)C(=O)/C=C/C2=CC=CC=C2
-190;Cinchona officinalis;2- piridilquinolina;316974;2-piperidin-1-ylquinoline;C1CCN(CC1)C2=NC3=CC=CC=C3C=C2
+Name,SMILES
+1,[O-]C(=O)c1c(O)c(O)ccc1
+2,c1ccc(O)c(O)c1C(=O)NCC([O-])=O
+3,OC[C@@H](C([O-])=O)NC(=O)c1c(O)c(O)ccc1
+4,O[C@H](C)[C@@H](C([O-])=O)NC(=O)c1cccc(O)c1O
+5,[O-]C(=O)c1c(O)cccc1
+6,OCC\C(C)=C\C(=O)N(O)CCC[C@H](N(C)C(=O)C)C(=O)OCCC(\C)=C\C(=O)N(O)CCC[C@@H]1NC(=O)[C@@H](NC1=O)CCCN(O)C(=O)/C=C(C)/CCO
+7,OCC\C(C)=C\C(=O)N(O)CCC[C@H]([NH3+])C(=O)OCCC(\C)=C\C(=O)N(O)CCC[C@@H]1NC(=O)[C@@H](NC1=O)CCCN(O)C(=O)/C=C(C)/CCO
+8,OCC\C(C)=C\C(=O)N(O)CCC[C@H]([NH2+]C)C(=O)OCCC(\C)=C\C(=O)N(O)CCC[C@@H]1NC(=O)[C@@H](NC1=O)CCCN(O)C(=O)/C=C(C)/CCO
+9,c1cc(O)c(O)cc1C([O-])=O
+10,Oc(c1)cc(O)cc1C([O-])=O
+11,[O-]C(=O)[C@@]1(O)N(C(=O)CC1)[C@H](C([O-])=O)CCNC(=O)C[C@](O)(C([O-])=O)CC(=O)OCCN([C@@]2(O)C([O-])=O)C(=O)CC2
+12,c1[nH+]c[nH]c1CCN2O[C@@H](C)[C@@H](C2=O)NC(=O)c3c(O)c(O)ccc3
+13,c1nc[nH]c1CCN2O[C@@H](C)[C@@H](C2=O)NC(=O)c3c(O)c(O)ccc3
+14,c1[nH]cnc1CCN2O[C@@H](C)[C@@H](C2=O)NC(=O)c3c(O)c(O)ccc3
+15,c1[nH+]c[nH]c1CCN2O[C@@H](C)[C@@H](C2=O)NC(=O)c3c([O-])c(O)ccc3
+16,c1nc[nH]c1CCN2O[C@@H](C)[C@@H](C2=O)NC(=O)c3c([O-])c(O)ccc3
+17,CCCCC/C=C/C(=O)N(O)CCCNC(=O)CC(O)(C([O-])=O)CC(=O)NCCCN(O)C(=O)\C=C\CCCCC
+18,CCCCC/C=C/C(=O)N([O-])CCCNC(=O)C[C@](O)(C([O-])=O)CC(=O)NCCCN(O)C(=O)\C=C\CCCCC
+19,CCCCC/C=C/C(=O)N([O-])CCCNC(=O)C[C@@](O)(C([O-])=O)CC(=O)NCCCN(O)C(=O)\C=C\CCCCC
+20,CCCCC/C=C/C(=O)N(O)CCCNC(=O)C[C@](O)(C([O-])=O)CC(=O)NCCCN([O-])C(=O)\C=C\CCCCC
+21,CCCCC/C=C/C(=O)N(O)CCCNC(=O)C[C@@](O)(C([O-])=O)CC(=O)NCCCN([O-])C(=O)\C=C\CCCCC
+22,c1ccccc1CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+23,c1ccccc1CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)C
+24,CC[C@H](C)CCCCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+25,CC[C@H](C)CCCCC(=O)[N@H+]([O-])CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+26,CC[C@H](C)CCCCC(=O)[N@@H+]([O-])CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+27,CC[C@H](C)CCCCCCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+28,CC[C@@H](C)CCCCCCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+29,CC[C@H](C)CCCCCCC(=O)[N@H+]([O-])CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+30,CC[C@H](C)CCCCCCC(=O)[N@@H+]([O-])CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+31,CC[C@@H](C)CCCCCCC(=O)[N@H+]([O-])CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+32,CC[C@@H](C)CCCCCCC(=O)[N@@H+]([O-])CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+33,CC[C@H](C)CCCCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)C
+34,CC[C@H](C)CCCCC(=O)[N@H+]([O-])CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)C
+35,CC[C@H](C)CCCCC(=O)[N@@H+]([O-])CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)C
+36,O=C(C)N(O)CCCC[C@@H](C([O-])=O)NC(=O)CC(O)(C([O-])=O)CC(=O)N[C@H](C([O-])=O)CCCCN(O)C(=O)C
+37,[O-]c1cccnc1C(=N2)SC[C@@]2(C([O-])=O)C
+38,Oc1cccnc1C(=N2)SC[C@@]2(C([O-])=O)C
+39,[O-]c1cccnc1C(=[NH+]2)SC[C@@]2(C([O-])=O)C
+40,[O-]c1ccc[nH+]c1C(=N2)SC[C@@]2(C([O-])=O)C
+41,Oc1cccnc1C(=[NH+]2)SC[C@@]2(C([O-])=O)C
+42,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]2N=C(O[C@@H]2C)c3c(O)c(O)ccc3)CCCCNC(=O)c4c(O)c(O)ccc4
+43,c1ccc(O)c([O-])c1C(=O)NCCCN(C(=O)[C@H]2N=C(O[C@@H]2C)c3c(O)c(O)ccc3)CCCCNC(=O)c4c(O)c(O)ccc4
+44,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]2N=C(O[C@@H]2C)c3c(O)c(O)ccc3)CCCCNC(=O)c4c([O-])c(O)ccc4
+45,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]([C@@H](C)O)NC(=O)c2c(O)c(O)ccc2)CCCCNC(=O)c3c(O)c(O)ccc3
+46,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]([C@@H](C)O)NC(=O)c2c([O-])c(O)ccc2)CCCCNC(=O)c3c(O)c(O)ccc3
+47,c1ccc(O)c([O-])c1C(=O)NCCCN(C(=O)[C@H]([C@@H](C)O)NC(=O)c2c(O)c(O)ccc2)CCCCNC(=O)c3c(O)c(O)ccc3
+48,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]([C@@H](C)O)NC(=O)c2c(O)c(O)ccc2)CCCCNC(=O)c3c([O-])c(O)ccc3
+49,c1cc(=O)n(C)c(=O)n1[C@@H]([C@H](O)[C@@H]2O)S[C@@H]2[C@@H](O)[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@@H](N)CCCN(O)C(=O)C
+50,O=C(N)/N=c(cc1)\n(C)c(=O)n1[C@@H]([C@H](O)[C@@H]2O)S[C@@H]2[C@@H](O)[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@@H](N)CCCN(O)C(=O)C
+51,O=C(N)Nc(cc1)n(C)c(=O)[n+]1[C@@H]([C@H](O)[C@@H]2O)S[C@@H]2[C@@H](O)[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@@H](N)CCCN(O)C(=O)C
+52,c1cc(=N\[H])\n(C)c(=O)n1[C@@H]([C@H](O)[C@@H]2O)S[C@@H]2[C@@H](O)[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@@H](N)CCCN(O)C(=O)C
+53,c1cc(N)n(C)c(=O)[n+]1[C@@H]([C@H](O)[C@@H]2O)S[C@@H]2[C@@H](O)[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@@H](N)CCCN(O)C(=O)C
+54,ON1CC[C@H](O)CNC(=O)CCC(=O)N(O)CC[C@H](O)CNC(=O)CCC1=O
+55,c1ccc(O)c(O)c1C(=O)NCCCC[C@H]([NH3+])[C@@H](O)CC(=O)N[C@H]2COC(=O)[C@H]([C@H](O)C([O-])=O)NC(=O)CNC(=O)[C@H]([C@H](O)C([O-])=O)NC(=O)[C@@H](NC(=O)CNC2=O)CCCNC(N)=[NH2+]
+56,c1ccc(O)c(O)c1C(=O)NCCCC[C@@H]([NH3+])[C@@H](O)CC(=O)N[C@H](CO)C(=O)NCC(=O)N[C@@H](CCCNC(N)=[NH2+])C(=O)N[C@@H]([C@H](O)C([O-])=O)C(=O)NCC(=O)N[C@H](C([O-])=O)[C@H](O)C([O-])=O
+57,c1ccc(O)c(O)c1C(=O)NCCCC[NH3+]
+58,c1ccc(O)c(O)c1C(=O)NCCCC[C@@H](C(=O)N[C@H](C([O-])=O)Cc2ccccc2)NC(=O)[C@@H]([NH3+])CCCCNC(=O)CNC(=O)c3c(O)c(O)ccc3
+59,c1cccc(c12)[nH]cc2C[C@@H](C([O-])=O)NC(=O)[C@H](CCCCNC(=O)c3c(O)c(O)ccc3)NC(=O)[C@@H]([NH3+])CCCCNC(=O)CNC(=O)c4c(O)c(O)ccc4
+60,c1ccc(O)c(O)c1C(=O)NCCCC[C@@H](C(=O)N[C@@H](C([O-])=O)Cc2ccccc2)NC(=O)[C@@H]([NH3+])CCCCNC(=O)c3c(O)c(O)ccc3
+61,c1cccc(c12)[nH]cc2C[C@@H](C([O-])=O)NC(=O)[C@H](CCCCNC(=O)c3c(O)c(O)ccc3)NC(=O)[C@@H]([NH3+])CCCCNC(=O)c4c(O)c(O)ccc4
+62,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)C[C@H](O)CCCCCCCCCCC
+63,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)C[C@H](O)CCCCC/C=C\CCCCCC
+64,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)CCCCCCCCCCCCC
+65,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)CCCCCCC/C=C\CCCCCC
+66,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)C[C@H](O)CCCCCCCCCCCCC
+67,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)CCCCCCC/C=C\CCCCCCCCCC
+68,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)CCCCCCCCCCCCCCC
+69,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)CCCCCCC/C=C\CCCCCCCC
+70,ON1CCC[C@H](C1=O)NC(=O)[C@@H](CCCN(O)C=O)NC(=O)[C@H](CO)NC(=O)[C@@H](CO)NC(=O)[C@H](CO)NC(=O)[C@@H]2N=C(OC2)c3c(O)cccc3
+71,O=C(C)N(O)CCC[C@H](C1=O)NC(=O)[C@@H](CCCNO)NC(=O)[C@H](CCCN1O)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)C
+72,Oc(c1)c(O)cc(c12)C[C@@H](C[N+]2(C)C)NC(=O)[C@H](CO)NC(=O)[C@@H](CO)NC(=O)[C@H]([C@H](O)C)NC(=O)C[C@H](O)C[C@@H](O)[C@H]3N=C(OC3)c4c(O)cccc4
+73,Oc(c1)c(O)cc(c12)C[C@H](C[N+]2(C)C)NC(=O)[C@H](CO)NC(=O)[C@@H](CO)NC(=O)[C@H]([C@H](O)C)NC(=O)C[C@@H](O)C[C@@H]3OC(=N[C@H]3CO)c4c(O)cccc4
+74,Oc(c1)c(O)cc(c12)C[C@@H](C[N+]2(C)C)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@@H]([C@@H](O)C)NC(=O)C[C@@H](O)C[C@@H](O)[C@@H](CO)NC(=O)c3c(O)cccc3
+75,c1ccc(O)c(O)c1C(SC2)=N[C@@H]2C(=O)N(O)CCc3[nH]c[nH+]c3
+76,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](O)C([O-])=O)NC(=O)CCC/C=C\CCCCCC
+77,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](O)C([O-])=O)NC(=O)CCCCCCCCCCC
+78,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](O)C([O-])=O)NC(=O)CCCCC/C=C\CCCCCC
+79,O=C(C)N(O)CCC[C@H](C([O-])=O)NC(=O)[C@@H](CO)NC(=O)[C@@H](CCCN(O)C(=O)C)NC(=O)[C@@H](CCC(=O)N)NC(=O)[C@@H](CO)NC(=O)[C@@H](CO)NC(=O)[C@@H]([C@H](O)C([O-])=O)NC(=O)CCCCCCCCCCCCC
+80,CCCCCCCCC[C@H](O)CC(=O)N[C@@H]([C@@H](O)C([O-])=O)C(=O)N[C@H](CO)C(=O)N[C@H](CO)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)N[C@H](CO)C(=O)N[C@H](C([O-])=O)CCCN(O)C(=O)C
+81,O=C(C)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](O)C([O-])=O)NC(=O)CCCCCCCCC
+82,O=C(C)N(O)CCCCCNC(=O)CC(O)(C([O-])=O)CC(=O)NCCCCCN(O)C(=O)C
+83,OCC/C(C)=C/C(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](C)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)/C=C(C)/CCO)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(\C)CCO
+84,OCC/C(C)=C/C(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(\C)CCO
+85,[O-]C(=O)[C@H](O)CC[NH2+][C@@H](C([O-])=O)CC[NH2+][C@@H](C([O-])=O)CCO
+86,OCC/C(C)=C/C(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)/C=C(C)/CCO)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(\C)CCO
+87,CC(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)/C=C(C)/CCO)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(\C)CCO
+88,OCC\C(C)=C\C(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)/C=C(C)/CCOC(=O)C)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(\C)CCO
+89,CC(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@H](CO)C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)C)CCCN(O)C(=O)/C=C(C)/CCO
+90,CC(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(\C)CCO
+91,OCC\C(C)=C(C)\C(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)C
+92,OCC\C(C)=C(C)\C(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)/C=C(/C)CCO)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(C)/CCO
+93,OCC\C(C)=C(C)\C(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)C[C@@](O)(C)CCO)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(C)/CCO
+94,OCC\C(C)=C(C)\C(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)/C=C(C)/CCO)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)C[C@@](O)(C)CCO
+95,OCC[C@](O)(C)CC(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)/C=C(C)/CCO)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(C)/CCO
+96,CC(C)c1cnc(c(=O)n1[O-])C(C)C
+97,CC(C)c1ncc(n([O-])c1=O)[C@H](C)CC
+98,c1ccc(O)c(O)c1C(=O)N[C@H](C([O-])=O)CCCCNC(=O)c2c(O)c(O)ccc2
+99,c1ccc(O)c(O)c1C(=O)NCC(=O)N[C@H]2[C@@H](C)OC(=O)[C@@H](NC(=O)CNC(=O)c3c(O)c(O)ccc3)[C@@H](C)OC(=O)[C@H]([C@@H](C)OC2=O)NC(=O)CNC(=O)c4c(O)c(O)ccc4
+100,c1ccc(O)c(O)c1C(=O)NCC(=O)N[C@@H]([C@H](O)C)C(=O)O[C@H](C)[C@H](NC(=O)CNC(=O)c2c(O)c(O)ccc2)C(=O)O[C@@H](C)[C@@H](C([O-])=O)NC(=O)CNC(=O)c3c(O)c(O)ccc3
+101,c1ccc(O)c(O)c1C(=O)NCC(=O)N[C@H](C([O-])=O)[C@@H](C)OC(=O)[C@H]([C@H](O)C)NC(=O)CNC(=O)c2c(O)c(O)ccc2
+102,[O-]C(=O)C/C(C)=C\C(=O)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CCCN(O)C(=O)/C=C(C)\CC([O-])=O)NC(=O)[C@@H]([NH3+])CCCN(O)C(=O)/C=C(C)\CC([O-])=O
+103,NC(=[NH2+])NCCC[C@@H](C(=O)N[C@@H]([C@H](O)C)C(=O)OC)NC(=O)c1c(O)c(O)ccc1
+104,ON1CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC1=O
+105,[O-]n1c(C)c(OC)ccc1=O
+106,OC[C@@H](C([O-])=O)NC(=O)[C@@H](CCCC[NH3+])NC(=O)c1c(O)c(O)ccc1
+107,[O-]C(=O)[C@@H]([NH3+])CCCN(O)C(=O)/C=C(/C)CCO
+108,[O-]C(=O)CC(O)(C([O-])=O)CC([O-])=O
+109,O=CN(O)CCC[C@@H]([NH3+])C(=O)N[C@H]([C@H](O)C)C(=O)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H]([NH3+])CCCN(O)C=O
+110,OCC/C(C)=C\C(=O)N(O)CCC[C@@H](NC1=O)C(=O)N[C@H]1CCCN(O)C(=O)/C=C(C)/CCOC(=O)[C@@H](NC(=O)C)CCCN(O)C(=O)/C=C(C)\CCO
+111,OCC\C(C)=C\C(=O)N(O)CCC[C@@H](NC1=O)C(=O)N[C@@H]1CCCN(O)C(=O)/C=C(C)/CCOC(=O)[C@@H]([NH3+])CCCN(O)C(=O)/C=C(C)/CCO
+112,CCCCCCCC(=O)N[C@H]([C@@H](O)c1c[nH]cn1)C2=[NH+]CC[C@H](N2)C(=O)N[C@@H](CC[NH3+])C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)N[C@H]([C@@H](C(=O)[O-])O)C3=[NH+]CC[C@H](N3)C(=O)N[C@@H](C(=O)C)[C@@H](C(=O)[O-])O
+113,[O-]C(=O)C[C@@](C([O-])=O)(O)CC(=O)N[C@H](C(=O)[O-])CCCCNC(=O)C[C@@](C(=O)[O-])(O)CC([O-])=O
+114,CCCCCCCCCC(=O)N[C@@H]([C@H](O)C([O-])=O)C(=O)N[C@@H](CC[NH3+])C(=O)N[C@@H]([C@H](O)C([O-])=O)C(=O)NCC(=O)N[C@H](C([O-])=O)CCCN(O)C(=O)C[C@@H](O)C
+115,ON1CCC[C@@H]([NH3+])C(=O)OCC/C(C)=C/C(=O)N(O)CCC[C@@H]([NH3+])C(=O)OCC/C(C)=C/C(=O)N(O)CCC[C@@H]([NH3+])C(=O)OCC/C(C)=C\C1=O
+116,Oc1cccc(c1O)C(=O)N[C@H](CCCC[NH3+])C(=O)N[C@@H]2C(=O)OC[C@H](NC(=O)[C@@H](CCCC[NH3+])NC(=O)c3cccc(O)c3O)C(=O)OC[C@@H](C(=O)OC2)NC(=O)[C@@H](CCCC[NH3+])NC(=O)c4cccc(O)c4O
+117,CC(=O)NCCCNC(=O)C[C@@](C([O-])=O)(O)CC(=O)NCCCN(O)C(=O)C
+118,OCC/C(C)=C\C(=O)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CCCN(O)C(=O)/C=C(C)\CCO)NC(=O)[C@@H]([NH3+])CCCN(O)C(=O)/C=C(C)\CCO
+119,O=C(C)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCC[NH3+]
+120,O=C(C)N(O)CCCCNC(=O)CCC(=O)N(O)CCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+121,O=C(C)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+122,O=C(C)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)C
+123,ON1CCCCCNC(=O)CCC(=O)N(O)CCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC1=O
+124,ON1CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC1=O
+125,[O-]C(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+126,[O-]C(=O)CCC(=O)N(O)CCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+127,[O-]C(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCNC(=O)CCC(=O)N(O)CCCCC[NH3+]
+128,[O-]C(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCC[NH3+]
+129,O=C(C)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)[O-]
+130,O=C1CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN1
+131,ON1CCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC1=O
+132,O=C1CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCN1
+133,O=C1CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCNC(=O)CCC(=O)N(O)CCCCN1
+134,O=C1CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCNC(=O)CCC(=O)N(O)CCCNC(=O)CCC(=O)N(O)CCCN1
+135,ON1CCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCNC(=O)CCC1=O
+136,ON1CCCCNC(=O)CCC(=O)N(O)CCCCNC(=O)CCC(=O)N(O)CCCCNC(=O)CCC1=O
+137,ON1CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCCNC(=O)CCC1=O
+138,ON1CCCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)NCCCCCCNC(=O)CCC1=O
+139,[O-]C(=O)[C@]1(C)N=C(SC1)c2[nH+]cccc2[O-]
+140,c1ccc(O)c(O)c1C(=O)N[C@@H](CCCNC(N)=[NH2+])C(=O)N[C@H](C([O-])=O)[C@@H](C)OC(=O)[C@H]([C@H](O)C)NC(=O)[C@H](CCCNC(N)=[NH2+])NC(=O)c2c(O)c(O)ccc2
+141,c1ccc(O)c(O)c1C(=O)N[C@H](CCCC[NH3+])C(=O)N[C@H](C([O-])=O)COC(=O)[C@H](CO)NC(=O)[C@@H](CCCC[NH3+])NC(=O)c2c(O)c(O)ccc2
+142,OCC\C(C)=C\C(=O)N(O)CCC[C@@H](NC1=O)C(=O)N[C@@H]1CCCN(O)C(=O)/C=C(C)/CCO
+143,OCC/C(C)=C\C(=O)N(O)CCC[C@@H](NC1=O)C(=O)N[C@@H]1CCCN(O)C(=O)/C=C(C)\CCOC(=O)[C@@H]([NH+](C)C)CCCN(O)C(=O)/C=C(C)/CCO
+144,O=C(C)N(O)CCC[C@@H](NC1=O)C(=O)N[C@@H]1CCCN(O)C(=O)/C=C(C)\CCOC(=O)[C@@H]([NH+](C)C)CCCN(O)C(=O)/C=C(C)/CCO
+145,OCC/C(C)=C/C(=O)N(O)CCC[C@@H]1C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(C)/CCOC(=O)[C@H]([NH+](C)C)CCCN(O)C(=O)C
+146,c1ccc(O)c(O)c1C(=O)N[C@H](CCCNC(N)=[NH2+])C(=O)N[C@H](C([O-])=O)COC(=O)[C@H](CO)NC(=O)[C@@H](CCCNC(N)=[NH2+])NC(=O)c2c(O)c(O)ccc2
+147,[O-]C(=O)[C@H]1CS[C@H](N1C)[C@H]2N=C(SC2)c3c(O)cccc3
+148,c1ccc(O)c(O)c1C(=O)N[C@H]2COC(=O)[C@@H](NC(=O)c3c(O)c(O)ccc3)COC(=O)[C@H](COC2=O)NC(=O)c4c(O)c(O)ccc4
+149,O=C(C)N(O)CCC[C@H](NC1=O)C(=O)N[C@H]1CCCN(O)C(=O)[C@@H](CO)NC(=O)[C@H](NC(=O)C)CCCN(O)C(=O)C
+150,ON1CCC[C@@H](C1=O)NC(=O)[C@H](CCC[NH3+])NC(=O)[C@@H]([NH2+]C)CCCN(O)C(=O)CCNC(=O)CCNC(=O)[C@@H]([NH3+])[C@H](O)c2[nH]cnc2
+151,[O-]C(=O)[C@H]([NH3+])CCCN(O)C(=O)[C@@H]([C@H](O)C)NC(=O)[C@@H]([NH3+])CCCN(O)C(=O)CCNC(=O)[C@@H]([NH3+])CCCN(O)C=O
+152,CC(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)NCC(=O)NCC(=O)NCC(=O)N1
+153,O=C([O-])C/C(C)=C\C(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)/C=C(C)\CC([O-])=O)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(/C)CC([O-])=O
+154,CC(=O)N(O)CCC[C@@H]1C(=O)N[C@@H](C)C(=O)NCC(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)C
+155,O[C-](C)N(O)CCC[C@@H]1NC(=O)[C@@H](CCCN(O)[C-](O)C)NC(=O)CNC(=O)[C@@H](CO)NC(=O)[C@@H](C)NC(=O)[C@H](NC1=O)CCCN(O)[C-](O)C
+156,O=C(C)N(O)CCC[C@H](NC1=O)C(=O)NCC(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)N[C@H]1CCCN(O)C(=O)C
+157,Fc(c1)ccc(O)c1\C(c2ccc(Cl)cc2)=N\CCCC(=O)OCCOC
+158,OCCC(/C)=C\C(=O)N(O)CCC[C@H](C(=O)N[C@H](CO)C(=O)N[C@H]1CO)NC(=O)[C@@H](CCCN(O)C(=O)/C=C(/C)CCO)NC(=O)[C@H](NC(=O)CNC1=O)CCCN(O)C(=O)/C=C(/C)CCO
+159,OCC\C(C)=C\C(=O)N(O)CCC[C@H](NC1=O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)/C=C(C)/CCO)C(=O)N[C@H]1CCCN(O)C(=O)/C=C(C)/CCO
+160,O=C1N[C@H](CO)C(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)N[C@@H](C)C(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)NCC(=O)OC[C@H](NC(=O)C/C=C/CCCCCC)C(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)NCC(=O)N[C@H]1C(C)C
+161,O=C(C)N(O)CCC[C@H]1NC(=O)[C@@H](CO)NC(=O)[C@@H](C(C)C)NC(=O)CNC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@@H](NC(=O)C/C=C\CCCCCC)COC(=O)CNC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)CNC(=O)[C@@H]([NH2+]C1)CO
+162,CCC(=O)N(O)CCC[C@@H]1NC(=O)[C@@H](CO)NC(=O)[C@@H](C(C)C)NC(=O)CNC(=O)[C@H](CCCN(O)C(=O)CC)NC(=O)[C@@H](NC(=O)C/C=C/CCCCCC)COC(=O)CNC(=O)[C@H](CCCN(O)C(=O)CC)NC(=O)CNC(=O)[C@H](C)[NH2+]C1
+163,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]2N=C(O[C@@H]2C)c3c(O)c(O)ccc3)CCCNC(=O)c4c(O)c(O)ccc4
+164,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]([C@H](O)C)NC(=O)c2c(O)c(O)ccc2)CCCNC(=O)c3c(O)c(O)ccc3
+165,CCC(=O)N(O)CCC[C@@H]1NC(=O)[C@@H](CO)NC(=O)[C@@H](C(C)C)NC(=O)CNC(=O)[C@H](CCCN(O)C(=O)CC)NC(=O)[C@@H](NC(=O)C/C=C/CCCCCC)COC(=O)CNC(=O)[C@H](CCCN(O)C(=O)CC)NC(=O)CNC(=O)[C@H](C)[NH2+]C1
+166,[O-]C(=O)[C@@H]([NH3+])CCCN(O)C(=O)/C=C(/C)CCCC(=O)[C@@H]([NH3+])CCCN(O)C(=O)/C=C(/C)CCO
+167,OCC/C(C)=C\C(=O)N(O)CCC[C@H]([NH3+])C(=O)OCC/C(C)=C\C(=O)N(O)CCC[C@H]([NH3+])C(=O)OCC/C(C)=C\C(=O)N(O)CCC[C@@H](C([O-])=O)[NH3+]
+168,c1ccc(O)c(O)c1C(=O)N[C@H](CCCNC(N)=[NH2+])C(=O)NCC(=O)NCC(=O)N[C@H](C2=O)COC(=O)[C@H](CCCN2O)NC(=O)CNC(=O)CNC(=O)[C@@H](CCCNC(N)=[NH2+])NC(=O)c3c(O)c(O)ccc3
+169,c1ccc(O)c(O)c1C(=O)N[C@H](CCCNC(N)=[NH2+])C(=O)NCC(=O)NCC(=O)N[C@@H](CO)C(=O)N(O)CCC[C@@H](C([O-])=O)NC(=O)CNC(=O)CNC(=O)[C@@H](CCCNC(N)=[NH2+])NC(=O)c2c(O)c(O)ccc2
+170,c1ccc(O)c(O)c1C(=O)N[C@H](CCCNC(N)=[NH2+])C(=O)NCC(=O)NCC(=O)N[C@@H](CO)C(=O)N(O)CCC[C@@H](C(=O)N)NC(=O)CNC(=O)CNC(=O)[C@@H](CCCNC(N)=[NH2+])NC(=O)c2c(O)c(O)ccc2
+171,c1ccc(O)c(O)c1C(=O)NCCC[C@@H](NC(=O)c2c(O)c(O)c(S([O-])(=O)=O)cc2)C(=O)NCC(=O)N[C@H](C3=O)CCCN3O
+172,ON1CCC[C@@H](C1=O)NC(=O)CNC(=O)[C@H]([NH3+])CCCNC(=O)c2c(O)c(O)ccc2
+173,OCC/C(C)=C/C(=O)N(O)CCC[C@@H]1C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(C)/CCOC(=O)[C@@H](NC(=O)C)CCCN(O)C(=O)/C=C(C)/[C@H](O)CO
+174,OC[C@H](O)/C(C)=C\C(=O)N(O)CCC[C@@H](NC1=O)C(=O)N[C@@H]1CCCN(O)C(=O)/C=C(C)\CCOC(=O)[C@@H](NC(=O)C)CCCN(O)C(=O)C
+175,O=C(C)N(O)CCC[C@@H](NC1=O)C(=O)N[C@@H]1CCCN(O)C(=O)/C=C(C)\CCOC(=O)[C@@H](NC(=O)C)CCCN(O)C(=O)/C=C(C)/[C@@H](O)CO
+176,OCC/C(C)=C/C(=O)N(O)CCC[C@@H]1C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(C)/CCOC(=O)[C@@H](NC(=O)C)CCCN(O)C(=O)C
+177,CC(=O)N(O)CCC[C@@H]1C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(C)/CCOC(=O)[C@@H](NC(=O)C)CCCN(O)C(=O)/C=C(C)/CCO
+178,c1ccc(O)c(O)c1C(=O)NCC([O-])=O
+179,ON1CCC[C@@H](C1=O)NC(=O)CNC(=O)[C@H](NC(=O)c2c(O)c(O)ccc2)CCCNC(=O)c3c(O)c(O)ccc3
+180,[O-]C(=O)[C@H]([NH3+])CCCN(O)C(=O)/C=C(C)/CCOC(=O)[C@H]([NH3+])CCCN(O)C(=O)/C=C(C)/CCOC(=O)[C@H]([NH3+])CCCN(O)C(=O)/C=C(C)/CCO
+181,Oc1c(O)cccc1C(=O)N[C@@H](CCCC[NH3+])C(=O)N[C@H](C(=O)[O-])COC(=O)[C@@H](NC(=O)[C@@H](CCCC[NH3+])NC(=O)c2c(O)c(O)ccc2)COC(=O)[C@H](CO)NC(=O)[C@@H](CCCC[NH3+])NC(=O)c3c(O)c(O)ccc3
+182,C1CCNN([C@H]12)C(=O)[C@@H](N(C2=O)C)CCCN(O)C(=O)[C@H](CO)NC(=O)CNC(=O)CCNC(=O)c3ccccc3O
+183,ON1CCC[C@@H](C1=O)NC(=O)[C@@H]([NH2+]C)CCCN(O)C(=O)CCNC(=O)[C@H](C)NC(=O)[C@@H](CO)NC(=O)c2c(O)cccc2
+184,ON1CCC[C@@H](C1=O)NC(=O)[C@@H]([NH2+]C)CCCN(O)C(=O)CCNC(=O)[C@H](C)NC(=O)[C@H](N)COC(=O)c2c(O)cccc2
+185,[O-]C(=O)[C@H](C1)N1C(=O)c2c(O)cccc2
+186,OC[C@H](C([O-])=O)NC(=O)c1c(O)cccc1
+187,ON1CCC[C@@H](C1=O)NC(=O)[C@@H]([NH2+]C)CCCN(O)C(=O)CCNC(=O)CNC(=O)[C@@H]2N=C(OC2)c3c(O)cccc3
+188,ON1CCC[C@H](C1=O)NC(=O)[C@H]([NH2+]C)CCCN(O)C(=O)CCNC(=O)CNC(=O)[C@H]2N=C(OC2)c3c(O)cccc3
+189,ON1C(=O)[C@@H](CCC1)N2[C@H](C)[N@@H+](C)[C@@H](C2=O)CCCN(O)C(=O)CCNC(=O)CNC(=O)[C@H]3N=C(OC3)c4c(O)cccc4
+190,ON1C(=O)[C@@H](CCC1)N2[C@H](C)[N@H+](C)[C@@H](C2=O)CCCN(O)C(=O)CCNC(=O)CNC(=O)[C@H]3N=C(OC3)c4c(O)cccc4
+191,ON1C(=O)[C@@H](CCC1)N(C2(C)C)C(=O)[C@H]([N@@H+]2C)CCCN(O)C(=O)CCNC(=O)CNC(=O)[C@H]3N=C(OC3)c4c(O)cccc4
+192,ON1C(=O)[C@@H](CCC1)N(C2(C)C)C(=O)[C@H]([N@H+]2C)CCCN(O)C(=O)CCNC(=O)CNC(=O)[C@H]3N=C(OC3)c4c(O)cccc4
+193,[O-]C(=O)CC(=O)N(O)CCC[C@@H](NC1=O)C(=O)NCC(=O)N[C@H](C)C(=O)NCC(=O)N[C@H](CCCN(O)C(=O)CC([O-])=O)C(=O)N[C@@H]1CCCN(O)C(=O)CC([O-])=O
+194,[O-]C(=O)[C@]1(C)N=C(SC1)C(C)(C)[C@@H](O)[C@@H](N2C)CS[C@@H]2[C@@H]3N=C(SC3)c4c(CCCCC)cccc4O
+195,[O-]C(=O)[C@]1(C)N=C(SC1)C(C)(C)[C@@H](O)[C@@H](N2C)CS[C@@H]2[C@@H]3N=C(SC3)c4c(CCCCC)cccc4O
+196,[O-]C(=O)[C@]1(C)N=C(SC1)C(C)(C)[C@@H](O)[C@@H](N2C)CS[C@@H]2[C@@H]3N=C(SC3)c4c(CCCCC)cccc4O
+197,[O-]C(=O)[C@]1(C)N=C(SC1)C(C)(C)[C@@H](O)[C@@H](N2C)CS[C@@H]2[C@@H]3N=C(SC3)c4c(CCCCC)cccc4O
+198,[O-]C(=O)[C@]1(C)N=C(SC1)C(C)(C)[C@H](O)[C@@H](N2C)CS[C@@H]2[C@@H]3N=C(SC3)c4c(CCCC)cccc4O
+199,c1ccc(O)c(O)c1C(=O)N[C@H](CCCNC(N)=[NH2+])C(=O)N[C@@H](C([O-])=O)CCCN(C=O)OC(=O)c2c(O)c(O)ccc2
+200,[O-]C(=O)[C@H](CC1)[N@@H+]1C[C@H](O)[C@@H](C([O-])=O)[NH2+]CC[C@H](O)C([O-])=O
+201,[O-]C(=O)[C@H](CC1)[N@H+]1C[C@H](O)[C@@H](C([O-])=O)[NH2+]CC[C@H](O)C([O-])=O
+202,[O-]C(=O)[C@H](CC1)[N@@H+]1C[C@@H](O)[C@@H](C([O-])=O)[NH2+]CC[C@H](O)C([O-])=O
+203,[O-]C(=O)[C@H](CC1)[N@H+]1C[C@@H](O)[C@@H](C([O-])=O)[NH2+]CC[C@H](O)C([O-])=O
+204,[C@]123[C@@H]4[C@H](C)CC[C@H]2[C@@H](C)[C@H](O[C@@H]3O[C@@](OO1)(C)CC4)OCCCC(=O)N[C@H](C(=O)N[C@H](C(=O)N5O)CCCC5)CNC(=O)[C@@H](NC(=O)[C@H]6N=C(OC6)c7c(O)cccc7)CCCCN(O)C(=O)CCCCCCCCCCCCCCCC
+205,ON1CCCC[C@@H](C1=O)NC(=O)[C@@H](C)[C@@H](CC)OC(=O)[C@@H](NC(=O)[C@H]2N=C(O[C@@H]2C)c3c(O)cccc3)CCCCN(O)C(=O)/C=C\CCCCCCCCCCCCC
+206,ON1CCCC[C@H](C1=O)NC(=O)[C@@H](C)[C@@H](CC)OC(=O)[C@@H](NC(=O)[C@H]2N=C(OC2)c3c(C)cccc3O)CCCCN(O)C(=O)/C=C\CCCCCCCCCCCCCCC
+207,ON1CCCC[C@@H](C1=O)NC(=O)C[C@H](C)OC(=O)[C@@H](NC(=O)[C@H]2N=C(OC2)c3c(O)cccc3)CCCCN(O)C(=O)/C=C\CCCCCCCCCCCCCCC
+208,ON1CCCC[C@@H](C1=O)NC(=O)C[C@@H](C)OC(=O)[C@@H](NC(=O)[C@H]2N=C(OC2)c3c(O)cccc3)CCCCN(O)C(=O)CCCCCCCCCCCCCCCCCCC
+209,c1ccc(O)c(O)c1C(=O)N[C@@H](CO)CCCCNC(=O)c2c(O)c(O)ccc2
+210,c1ccc(O)c(O)c1C(=O)N[C@H](CO)CCCCNC(=O)c2c(O)c(O)ccc2
+211,c1ccc(O)c(O)c1C(=O)N[C@H](C[NH3+])CCCCNC(=O)c2c(O)c(O)ccc2
+212,c1ccc(O)c(O)c1C(=O)NC[C@@H](NC(=O)c2c(O)c(O)ccc2)CCCCNC(=O)c3c(O)c(O)ccc3
+213,c1ccc(O)c(O)c1C(=O)NC[C@@H](NC(=O)c2c(O)c(O)ccc2)CCNC(=O)c3c(O)c(O)ccc3
+214,c1ccc(O)c(O)c1C(=O)N[C@H](CO)CCCCNC(=O)c2ccccc2
+215,c1ccccc1C(=O)N[C@H](CO)CCCCNC(=O)c2c(O)c(O)ccc2
+216,c1ccc(O)c(O)c1C(=O)N[C@H](CO)CCCCNC(=O)c2c(O)cccc2
+217,c1cccc(O)c1C(=O)N[C@H](CO)CCCCNC(=O)c2c(O)c(O)ccc2
+218,c1cccc(O)c1C(=O)N[C@H](CO)CCCCNC(=O)c2c(O)cccc2
+219,Fc1cccc(O)c1C(=O)NCCCC[C@@H](CO)NC(=O)c2c(O)c(O)ccc2
+220,Fc1cccc(O)c1C(=O)N[C@H](CO)CCCCNC(=O)c2c(O)c(O)ccc2
+221,Fc1cccc(O)c1C(=O)N[C@H](CO)CCCCNC(=O)c2c(O)cccc2F
+222,c1cccc(F)c1C(=O)NCCCC[C@@H](CO)NC(=O)c2c(O)c(O)ccc2
+223,c1cccc(F)c1C(=O)N[C@H](CO)CCCCNC(=O)c2c(O)c(O)ccc2
+224,c1cccc(F)c1C(=O)N[C@H](CO)CCCCNC(=O)c2c(F)cccc2
+225,c1ccc(F)cc1C(=O)N[C@H](CO)CCCCNC(=O)c2cc(F)ccc2
+226,c1cccc(Cl)c1C(=O)NCCCC[C@@H](CO)NC(=O)c2c(O)c(O)ccc2
+227,c1cccc(Cl)c1C(=O)N[C@H](CO)CCCCNC(=O)c2c(O)c(O)ccc2
+228,c1ccccc1\C=C\C(=O)N(O)CCCC[C@@H](C(=O)OC)NC(=O)CC(O)(C([O-])=O)CC(=O)N[C@H](C(=O)OC)CCCCN(O)C(=O)/C=C/c2ccccc2
+229,c1ccccc1\C=C\C(=O)N(O)CCCC[C@@H](C([O-])=O)NC(=O)C[C@](O)(C([O-])=O)CC(=O)N[C@H](C(=O)OC)CCCCN(O)C(=O)/C=C/c2ccccc2
+230,c1ccccc1\C=C\C(=O)N(O)CCCC[C@@H](C([O-])=O)NC(=O)CC(O)(C([O-])=O)CC(=O)N[C@H](C([O-])=O)CCCCN(O)C(=O)/C=C/c2ccccc2
+231,CC(C)Cc(n1[O-])cnc(c1=O)CC(C)C
+232,O=C(C)N(O)CCC[C@@H](NC1=O)C(=O)N[C@@H]1CCCN(O)C(=O)/C=C(C)/CCOC(=O)[C@@H](NC(=O)C)CCCN(O)C(=O)C
+233,CC(=O)N[C@@H]1C(=O)OCC/C(C)=C/C(=O)N(O)CCC[C@@H](NC(=O)C)C(=O)OCCC(\C)=C\C(=O)N(O)CCC[C@@H](NC(=O)C)C(=O)OCC/C(C)=C\C(=O)N(O)CCC1
+234,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]2N=C(OC2)c3c(O)cccc3)CCCNC(=O)c4c(O)c(O)ccc4
+235,CCCCCCCC(=O)N[C@H]([C@@H](O)c1nc[nH]c1)C2=[NH+]CC[C@H](N2)C(=O)N[C@H](CCC[NH3+])C(=O)N[C@H](CO)C(=O)N[C@H](CO)C(=O)N[C@H]([C@@H](C(=O)[O-])O)C3=[NH+]CC[C@H](N3)C(=O)N[C@@H](C([O-])=O)[C@@H](O)C(=O)[O-]
+236,O[C@@H]1[C@@H](CO)O[C@H]([C@H](O)[C@H]1O)c2cc(c(O)c(O)c2)C(=O)N[C@H](C([O-])=O)CO
+237,c1ccc(O)c(O)c1C(=O)N[C@@H](C)C(=O)N[C@H]2[C@@H](C)OC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)c3c(O)c(O)ccc3)[C@@H](C)OC(=O)[C@H]([C@@H](C)OC2=O)NC(=O)[C@H](C)NC(=O)c4c(O)c(O)ccc4
+238,CCCCCCCCCCCCCCCC(=O)N[C@@H](CCCN(O)C(=O)\C=C(C)\CCO)C(=C)OCC/C(C)=C/C(=O)N(O)CCC[C@@H]1C(=O)N[C@H](C(=O)N1)CCCN(O)C(=O)/C=C(C)/CCO
+239,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]2N=C(O[C@@H]2C)c3c(O)cccc3)CCCCNC(=O)c4c(O)c(O)ccc4
+240,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]([C@H](O)C)NC(=O)c2c(O)cccc2)CCCCNC(=O)c3c(O)c(O)ccc3
+241,c1cc(O)c(O)cc1C(=O)NCCC[NH2+]CCCCNC(=O)CC(O)(C([O-])=O)CC(=O)NCCCC[NH2+]CCCNC(=O)c2cc(O)c(O)cc2
+242,c1cc(O)c(O)c(S([O-])(=O)=O)c1C(=O)NCCC[NH2+]CCCCNC(=O)C[C@](O)(C([O-])=O)CC(=O)NCCC[NH2+]CCCNC(=O)c2c(S([O-])(=O)=O)c(O)c(O)cc2
+243,c1cc(O)c(O)c(S([O-])(=O)=O)c1C(=O)NCCC[NH2+]CCCCNC(=O)CC(O)(C([O-])=O)CC(=O)NCCCC[NH2+]CCCNC(=O)c2cc(O)c(O)cc2
+244,c1cc(O)c(O)cc1C(=O)NCCCC[NH2+]CCCNC(=O)c2cc(O)c(O)cc2
+245,OCC/C=C/C=C(C)/C=C/CC[C@@H]1O[C@@H]1[C@H](C)C[C@H](O2)[C@H](O)C[C@@H](O3)[C@@H]2[C@@H](O)C[C@@]34O[C@H](CC(=C4)C)C[C@@H]5O[C@H](CC5)[C@H](O)C=C(C)C
+246,c1ccc(O)c(O)c1C(=O)NCCCCNC(=O)[C@@H](NC(=O)c2c(O)cc(O)cc2)CCCCNC(=O)c3cc(O)c(O)cc3
+247,[O-]S(=O)(=O)c(cc1)c(O)c(O)c1C(=O)NCCCC[C@@H]([NH3+])[C@@H](O)CC(=O)N[C@H](CC(=O)N)C(=O)N[C@H]([C@@H](O)C([O-])=O)C(=O)N[C@@H]2CCCCNC(=O)CNC(=O)[C@@H]([C@@H](O)C([O-])=O)NC(=O)[C@H](NC2=O)CCCC[NH3+]
+248,[O-]S(=O)(=O)c(cc1)c(O)c(O)c1C(=O)NCCCC[C@@H]([NH3+])[C@@H](O)CC(=O)N[C@H](CC(=O)N)C(=O)N[C@H]([C@@H](O)C([O-])=O)C(=O)N[C@@H]2CCCCNC(=O)CNC(=O)[C@@H]([C@@H](O)C([O-])=O)NC(=O)[C@H](NC2=O)CCCNC(N)=[NH2+]
+249,c1[nH+]c[nH]c1CCN2O[C@H](C)[C@H](C2=O)NC(=O)c3c(O)cccc3
+250,ON1CCCCNC(=O)CCC(=O)N(O)CCCCNC(=O)CCC1=O
+251,[O-]C(=O)[C@@H]1CS[C@@H](N1C)[C@@H]2N=C(SC2)c3c(O)cccc3
+252,[O-]C(=O)[C@@H]1CS[C@@H](N1C)[C@@H]2N=C(SC2)c3c(O)cccc3
+253,[O-]C(=O)[C@@H]1CS[C@H](N1C)[C@@H]2N=C(SC2)c3c(O)cccc3
+254,[S-]C(=O)c1nc(C([S-])=O)ccc1
+255,[O-]n1c(=O)c(c([O-])cc1)[C@H]2[C@H](C)C[C@H](C)C[C@@H]2C=C
+256,COc1cc(C([O-])=O)nc(c12)c(O)ccc2
+257,[O-]C(=O)C[C@@](O)(C([O-])=O)CC(=O)NCCCCNC(=O)C[C@@](C([O-])=O)(O)CC([O-])=O
+258,[O-]C(=O)[C@H](C)NCC[NH2+][C@H](C([O-])=O)CCCCNC(=O)C[C@@H](O)C([O-])=O
+259,O=C(C)N(O)CCCNC(=O)C[C@](O)(C([O-])=O)CC(=O)NCCCN(O)C(=O)\C=C\CCCCCCC
+260,O=C(C)N(O)CCC[C@H](NC1=O)C(=O)N[C@H]1CCCN(O)C(=O)C
+261,OC[C@@H]1NC(=O)[C@@H](C)NC(=O)[C@@H](CCCCCC)NC(=O)[C@@H](CCCN(O)C(=O)C)NC(=O)[C@H](NC(=O)CNC1=O)CCCNC(=O)C
+262,O[C@@H]1[C@@H](CO)O[C@H]([C@H](O)[C@H]1O)c2cc(c(O)c(O)c2)C(=O)N[C@H](C([O-])=O)COC(=O)[C@H](CO)NC(=O)c3c(O)c(O)ccc3
+263,Oc1c(O)cccc1C(=O)N[C@@H](CO)C(=O)OC[C@H](NC(=O)c2cc(cc(O)c2O)[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C(=O)OC[C@@H](C(=O)[O-])NC(=O)c4cc(cc(O)c4O)[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O
+264,O[C@@H]1[C@@H](CO)O[C@@H]([C@H](O)[C@@H]1O)c2cc(c(O)c(O)c2)C(=O)N[C@@H]3COC(=O)[C@@H](NC(=O)c(c(O)c(O)c4)cc4[C@@H]([C@H](O)[C@@H]5O)O[C@@H]([C@H]5O)CO)COC(=O)[C@H](COC3=O)NC(=O)c6c(O)c(O)ccc6
+265,OC[C@H]([NH2+]C)[C@H](O)[C@H](O)[C@@H](O)[C@@H](C=O)O[C@@H](C(=N\O)/[C@H](O)[C@H]1O)O[C@H]1COC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCO
+266,O=C(C)N(O)CCCNC(=O)CC(O)(C([O-])=O)CC(=O)NCCCN(O)C(=O)C
+267,O=C(C)N(O)CCCN(C1=O)C(=O)C[C@@]1(O)CC(=O)NCCCN(O)C(=O)C
+268,O=C(C)N(O)CCCN(C1=O)C(=O)C[C@]1(O)CC(=O)NCCCN(O)C(=O)C
+269,c1ccc(O)c(O)c1C(OC2)=N[C@@H]2C(=O)NCCCNC(=O)c3c(O)c(O)ccc3
+270,c1ccc(O)c(O)c1C(O[C@@H]2C)=N[C@@H]2C(=O)NCCCNC(=O)c3c(O)c(O)ccc3
+271,c1ccc(O)c(O)c1C(=O)N[C@@H]([C@@H](O)C)C(=O)NCCCNC(=O)c2c(O)c(O)ccc2
+272,c1ccc(O)c(O)c1C(=O)O[C@H](C)[C@H](N)C(=O)NCCCNC(=O)c2c(O)c(O)ccc2
+273,O[C@]1(C)C[C@@H](C(=O)N)N=C1c2ncccc2O
+274,O[C@]1(C)C[C@H](C(=O)N)N=C1c2ncccc2O
+275,O[C@@]1(C)C[C@@H](C(=O)N)N=C1c2ncccc2O
+276,CC[C@@]1(O)C[C@@H](C(=O)N)N=C1c2ncccc2O
+277,[O-]C(=O)C[C@](O)(C([O-])=O)CC(=O)N[C@@H](C([O-])=O)CCCNC(=O)C[C@@](O)(C([O-])=O)CC([O-])=O
+278,[O-]C(=O)[C@@H]([NH3+])CNC(=O)C[C@](O)(C([O-])=O)CC(=O)NCCNC(=O)CCC(=O)C([O-])=O
+279,c1ccc(O)c(O)c1C(=O)N[C@@H](CCCNC(N)=[NH2+])C(=O)N[C@H]2[C@@H](C)OC(=O)[C@@H](NC(=O)[C@H](CCCNC(N)=[NH2+])NC(=O)c3c(O)c(O)ccc3)[C@@H](C)OC(=O)[C@H]([C@@H](C)OC2=O)NC(=O)[C@H](CCCNC(N)=[NH2+])NC(=O)c4c(O)c(O)ccc4
+280,O=C(C)N(O)CCCC(=O)C[C@](O)(C([O-])=O)CC(=O)CCCN(O)C(=O)CCCCCCCCCCC
+281,O=C(C)N(O)CCCC(=O)C[C@](O)(C([O-])=O)CC(=O)CCCN(O)C(=O)CCCCCCCCC
+282,O=C(C)N(O)CCCC(=O)C[C@](O)(C([O-])=O)CC(=O)CCCN(O)C(=O)CCCCCCC
+283,ON1CCC[C@@H](C1=O)NC(=O)[C@H](CO)NC(=O)[C@@H](CCCN(O)C(=O)C[C@@H](O)C)NC(=O)[C@H](CC([O-])=O)NC(=O)[C@@H]([C@H](O)C)NC(=O)[C@H]([C@H](O)C([O-])=O)NC(=O)CCCCCCCCCCC
+284,CC(=O)N(O)CCC[C@@H]1C(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)N[C@@H](CCCN(O)C(=O)C)C(=O)N[C@@H](C(=O)N1)CCCN(O)C(=O)C
+285,[O-]C(=O)[C@]1(C)N(C)[C@H](SC1)[C@H]2N=C(SC2)c3c(O)cccc3
+286,[O-]C(=O)[C@]1(C)N(C)[C@@H](SC1)[C@H]2N=C(SC2)c3c(O)cccc3
+287,Oc1cccc(c12)c(OC)cc(n2)C([S-])=O
+288,OCC/C(C)=C/C(=O)N(O)CCC[C@@H]([NH3+])C([O-])=O
+289,c1ccc(O)c(O)c1C(=O)N[C@@H](CCCNC(N)=[NH2+])C(=O)N[C@@H]([C@H](O)C)C(=O)O[C@H](C)[C@H](NC(=O)[C@H](CCCNC(N)=[NH2+])NC(=O)c2c(O)c(O)ccc2)C(=O)O[C@H](C)[C@@H](C([O-])=O)NC(=O)[C@H](CCCNC(N)=[NH2+])NC(=O)c3c(O)c(O)ccc3
+290,c1ccc(O)c(O)c1C(=O)N[C@H](CCCNC(N)=[NH2+])C(=O)N[C@@H](CO)C(=O)OC[C@H](NC(=O)[C@@H](CCCNC(N)=[NH2+])NC(=O)c2c(O)c(O)ccc2)C(=O)OC[C@@H](C([O-])=O)NC(=O)[C@@H](CCCNC(N)=[NH2+])NC(=O)c3c(O)c(O)ccc3
+291,ON1CCC[C@H](C1=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCC[NH3+])NC(=O)[C@@H]([NH2+]C)CCCN(O)C(=O)[C@H](CO)NC(=O)[C@@H]([NH2+]C)CCCN(O)C=O
+292,NC(=[NH2+])NCCC[C@H](C(=O)N[C@H](C([O-])=O)CO)NC(=O)c1c(O)c(O)ccc1
+293,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]2N=C(O[C@@H]2C)c3c(O)c(O)ccc3)CCCNC(=O)[C@@H]4N=C(O[C@H]4C)c5c(O)c(O)ccc5
+294,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@H]([C@H](O)C)NC(=O)c2c(O)c(O)ccc2)CCCNC(=O)[C@H]([C@H](O)C)NC(=O)c3c(O)c(O)ccc3
+295,[O-]C(=O)[C@@]1(O)N(C(=O)CC1)[C@@H](C)C(=O)NCCOC(=O)C[C@@](O)(C([O-])=O)CC([O-])=O
+296,O=C1C[C@@H](C)OC(=O)[C@H](NC(=O)C)CCCN(O)C(=O)C[C@@H](C)OC(=O)[C@H](NC(=O)C)CCCN(O)C(=O)C[C@@H](C)OC(=O)[C@H](NC(=O)C)CCCN1O
+297,O=C1C[C@@H](C)OC(=O)[C@H]([NH3+])CCCN(O)C(=O)C[C@@H](C)OC(=O)[C@H]([NH3+])CCCN(O)C(=O)C[C@@H](C)OC(=O)[C@H]([NH3+])CCCN1O
+298,c1ccc(O)c(O)c1C(=O)NCCCN(C(=O)[C@@H]2N=C(O[C@@H]2C)c3c(O)cccc3)CCCNC(=O)[C@H]4N=C(O[C@@H]4C)c5c(O)cccc5
+299,[O-]C(=O)[C@@H]1N=C(O[C@H]1C)c2c(O)cccc2
+300,c1cccc(O)c1C(O[C@@H]2C)=N[C@@H]2C(=O)NCCC[NH2+]CCCNC(=O)c3c(O)c(O)ccc3
+301,c1cccc(O)c1C(SC2)=N[C@H]2[C@@H](SC3)N[C@@H]3[C@@H](O)C(C)(C)C(SC4)=N[C@@]4(C)C([O-])=O
+302,CC(=O)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CO)NC(=O)[C@@H]1CC(=O)[C@H]([C@@H](O)C(=O)NCC1)NCC(=O)CCCCCCCCCCC
+303,CC(=O)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CO)NC(=O)[C@@H]1CC(=O)[C@H]([C@@H](O)C(=O)NCC1)NCC(=O)CCCCC/C=C\CCCCCC
+304,CC(=O)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CO)NC(=O)[C@@H]1CC(=O)[C@H]([C@@H](O)C(=O)NCC1)NCC(=O)CCCCCCCCCCCCC
+305,CC(=O)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CO)NC(=O)[C@@H]1CC(=O)[C@H]([C@@H](O)C(=O)NCC1)NCC(=O)CCCCCCC/C=C\CCCCCC
+306,CC(=O)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CO)NC(=O)[C@@H]1CC(=O)[C@H]([C@@H](O)C(=O)NCC1)NCC(=O)CCCCC/C=C\CCCCCCCC
+307,CC(=O)N(O)CCC[C@@H](C([O-])=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN(O)C(=O)C)NC(=O)[C@H](CO)NC(=O)[C@@H]1CC(=O)[C@H]([C@@H](O)C(=O)NCC1)NCC(=O)CCCCCCCCCCCCCCC
+308,c1ccc(O)c(O)c1C(=O)NCc2cc(CNC(=O)c3c(O)c(O)ccc3)cc(c2)CNC(=O)c4c(O)c(O)ccc4
+309,c1ccccc1CO[C@H](C)[C@H](NC2=O)C(=O)NCCCCCCC(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@@H](C(=O)N[C@@H]2CCCC[NH3+])Cc4c[nH]c(c45)cccc5
+310,Oc1c(O)cccc1C(=O)N2CCCN(C(=O)c3c(O)c(O)ccc3)CCCCN(CCC2)C(=O)c4c(O)c(O)ccc4
+311,O=C(C)N(O)CC(=O)NCC[NH+](CCNC(=O)CN(O)C(=O)C)CCNC(=O)CN(O)C(=O)C
+312,Oc1c(O)cccc1C(=O)N[C@H](C(=O)N[C@H](C([O-])=O)CCC(=O)N(C)O)CCCCNC(=O)c2cccc(O)c2O
+313,c1ccc(O)c(O)c1C(=O)NCC[NH+](CCNC(=O)c2c(O)c(O)ccc2)CCNC(=O)c3c(O)c(O)ccc3
+314,c1ccccc1NC(=O)CCC(=O)NCCCCCN(O)C(=O)CCC(=O)NCCCCCN(O)C(=O)CCC(=O)NCCCCCN(O)C(=O)C
+315,c1cc(S(=O)(=O)N)ccc1NC(=O)CCC(=O)NCCCCCN(O)C(=O)CCC(=O)NCCCCCN(O)C(=O)CCC(=O)NCCCCCN(O)C(=O)C
+316,c1cccc(c12)cc(cc2)NC(=O)CCC(=O)NCCCCCN(O)C(=O)CCC(=O)NCCCCCN(O)C(=O)CCC(=O)NCCCCCN(O)C(=O)C
+317,n1cccc(c12)cc(cc2)NC(=O)CCC(=O)NCCCCCN(O)C(=O)CCC(=O)NCCCCCN(O)C(=O)CCC(=O)NCCCCCN(O)C(=O)C
+318,Cn1c(C)c(O)c(=O)cc1
+319,c1cccc(O)c1-c2nc(-c3c(O)cccc3)nn2-c4ccc(C([O-])=O)cc4
+320,OCC\C(C)=C\C(=O)N(O)CCC[C@H](NC1=O)C(=O)N[C@H]1CCCN(O)C(=O)/C=C(C)/CCOC(=O)[C@@H](NC(=O)C)CCCN(O)C(=O)/C=C(C)/CCO
+321,O=c1c(C)nc(OC)c(n1[O-])Cc2c[nH]c(c23)c(ccc3)CC=C(C)C
+322,c1cc(O)c(O)c(Cl)c1C(=O)NCC[N+]2(CCCC2)CC(=C3C([O-])=O)CS[C@@H](N34)[C@@H](C4=O)NC(=O)\C(=N\OC(C)(C)C([O-])=O)c5nc(N)sc5
+323,c1cc(O)c(O)c(Cl)c1C(=O)NCC[N+]2(CCCC2)CC(=C3C([O-])=O)CS[C@@H](N34)[C@H](C4=O)NC(=O)\C(=N\OC(C)(C)C([O-])=O)c5nc(N)sc5
+324,c1cc(O)c(OC)c(Cl)c1C(=O)NCC[N+]2(CCCC2)CC(=C3C([O-])=O)CS[C@@H](N34)[C@@H](C4=O)NC(=O)/C(=N\OC(C)(C)C([O-])=O)c5nc(N)sc5
+325,c1cc(O)c(O)c(Cl)c1C(=O)NCC[N+]2(CCCC2)CC(=C3C([O-])=O)CS[C@@H](N34)[C@@H](C4=O)NC(=O)/C(=N\OC(C)(C)C([O-])=O)c5nc(N)sc5
+326,c1cc(O)c(O)c(Cl)c1C(=O)NCC[N+]2(CCCC2)CC(=C3C([O-])=O)CS[C@@H](N34)[C@@H](C4=O)NC(=O)/C(=N\OC(C)(C)C([O-])=O)c5nc(N)sc5
